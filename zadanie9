@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <nav class="Menu">
+                <ul class="Lista">
+                    <header id="main">
+                        <h1>main</h1>
+                    </header>
+                    <section id="o-nas">o nas
+                        <p class="tekst">tekst</p>
+                    </section>
+                    <section id="kontakt">kontakt</section>
+                    <footer id="footer">footer</footer>
+                </ul>
+            </nav>
+</body>
+</html>
